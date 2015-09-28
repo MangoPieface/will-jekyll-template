@@ -40,10 +40,12 @@ links:
     url: /about
     
  # Author details.
-sna:
+authors:
+  sna:
     name: Steve Newstead
     email: steve@steve.com
-    web: http://twitter.com/mangopieface
+    description: Test blog description for sna
+    twitter: http://twitter.com/mangopieface
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
