@@ -1,16 +1,16 @@
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
+description: Eduserv Technical Blog Test
 baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
 url: "http://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 encoding: utf-8
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
+username: A Test Eduserv Technical Blog in Jekyll
+user_description: Technical information
+user_title: Steve Newstead
 email: anon@anon.com
 twitter_username: lorem_ipsum
-github_username:  mangopieface
+github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
 disqus_username: lorem_ipsum
 
@@ -38,6 +38,12 @@ links:
     url: /tags
   - title: About Me
     url: /about
+    
+ # Author details.
+sna:
+    name: Steve Newstead
+    email: steve@steve.com
+    web: http://twitter.com/mangopieface
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
